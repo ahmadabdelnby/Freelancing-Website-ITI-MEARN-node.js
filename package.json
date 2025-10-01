@@ -1,0 +1,26 @@
+{
+  "name": "freelancing",
+  "version": "1.0.0",
+  "description": "freelancing platform",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadabdelnby/Freelancing-Website-ITI-MEARN-node.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadabdelnby/Freelancing-Website-ITI-MEARN-node.js/issues"
+  },
+  "homepage": "https://github.com/ahmadabdelnby/Freelancing-Website-ITI-MEARN-node.js#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "mongoose": "^8.18.3",
+    "nodemon": "^3.1.10"
+  }
+}
